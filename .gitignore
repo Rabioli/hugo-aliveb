@@ -16,6 +16,6 @@
 #
 # HUGO
 .hugo_build.lock
-#public/
+public/
 resources/
 
