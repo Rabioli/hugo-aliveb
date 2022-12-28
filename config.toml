@@ -53,7 +53,7 @@ title = "Alive Bienestar"
   # Main Menu
   [[menu.main]]
     name = "Servicios"
-    url = "/servicios/"
+    url = "/services/"
     weight = 1
 
   [[menu.main]]

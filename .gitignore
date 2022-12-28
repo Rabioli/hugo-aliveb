@@ -18,4 +18,5 @@
 .hugo_build.lock
 public/
 resources/
-
+*.~lock.
+*.lock
