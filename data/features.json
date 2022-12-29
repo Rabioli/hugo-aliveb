@@ -18,11 +18,17 @@
   {
     "title": "Alive Alcaplus",
     "description": "MERC",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "image": "images/productos/ALIVE-ALCAPLUS-FRASCO-NASAL-228x300.png"
   },
   {
     "title": "Bioforce",
     "description": "Publicidad lalalala",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "image": "images/productos/BIOFORCE-BOTELLA-FONDO-BLANCO-pq893yblnpr3wdckyom9w4nm0atjcqkupxjt281auk.png"
+  },
+  {
+    "title": "DUO BALANCE FACIAL",
+    "description": "Pa la jeta.",
+    "image": "images/productos/DUO-BALANCE-FACIAL-FRASCOS-223x300.png",
+    "link": "https://www.zerostatic.io"
   }
 ]

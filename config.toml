@@ -19,9 +19,9 @@ title = "Alive Bienestar"
     show_services_button = false # show / hide the "view all services" button
 
   [params.logo]
-    #mobile = "images/logo/logo-mobile.svg"
-    mobile_height = "36px"
-    #desktop = "images/logo/logo.svg"
+    mobile = "images/logo/cropped-ALIVE-BIENESTAR-LOGO-SIN-FONDO-150x78.png"
+    mobile_height = "25px"
+    desktop = "images/logo/cropped-ALIVE-BIENESTAR-LOGO-SIN-FONDO-150x78.png"
     desktop_height = "36px"
     alt = "Alive Bienestar"
 
