@@ -1,61 +1,12 @@
 ---
-title: "Business Advisory"
+title: "Descripción de mecanismos de acción más específicos de BIOFORCE®"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 draft: false
 weight: 2
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
 
-## Inter pectore totidem
-
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
-
-## Novis hunc qua erat caecisque
-
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
-
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
-
-## Naiades latuere rubenti tendere os Phrygum eminus
-
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
-
-## Statuunt nais inponere tamen duodena aemulus mille
-
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
-
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
-
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+Recordando que si bien, el cuerpo humano es un espectacular organismo donde ocurren millones de reacciones bioquímicas muchas de ellas en simultáneo, donde BIOFORCE® aporta muchos beneficios (ver párrafo anterior), y que si alguna de ellas se desajusta presentamos enfermedad, también es un cuerpo electro magnético o Bioelectromagnético que para su optimo funcionamiento, también requiere de la generación de pequeñas y grandes corrientes eléctricas las que a su vez generan un campo magnético, y que estas señales o corrientes eléctricas y campos magnéticos de igual manera si se desequilibran o alteran de cualquier forma también generan enfermedad, esto ha sido durante ya miles de años motivo de estudio de la medicina tradicional y ahora de la moderna medicina China, y ha dado como resultado el desarrollo de varios procedimientos terapéuticos entre ellos está la digitopuntura, electropuntura, acupuntura, reflexología, imanólogia, auriculoterapia, etc. Como las principales y más conocidas en occidente; Estas terapias tiene como objeto y principio la estimulación de órganos y sistemas (meridianos) mediante la manipulación de las cargas y señales eléctricas y magnéticas presentes en el paciente, en muchos de sus procedimientos también la incorporación de electrones mediante pequeñas descargas eléctricas de corriente continua con el objeto de buscar equilibrios y estimular meridianos, también se apoyan del uso de imanes y balines los cuales se colocan para que el paciente los porte por varios o muchos días, los que buscan con la manipulación o estimulación de campos magnéticos acelerar o frenar flujos eléctricos, y así estimular mecanismos naturales que restablezcan la salud del paciente.
+BIOFORCE® logra en varias veces más y más rápido este efeto de las terapias de China, ya que lleva como ya se mencionó los electrones que se requieren al sistema u órgano que lo necesite aportándolos y restableciendo de igual forma la salud, ya que el método de acción de BIOFORCE® es desde el interior a nivel molecular dentro de las células (intracelular) pero inicia la sección de estos electrones desde que BIOFORCE® se encuentra en el plasma sanguíneo, así tanto los nutrientes, como el oxígeno, enzimas, la energía (glucosa), los aminoácidos, las hormonas y todo elemento requerido por cada una de nuestras células es llevado de la mejor forma fisicoquímica posible para que las células los tome y desarrolle óptimamente su función, por esto BIOFORCE® se considera BIOESTIMULANTE y RECONSTITUYENTE de funciones optimas de cada célula, pero no solo ello, BIOFORCE® además al aportar los electrones en el mismo plasma a moléculas dañinas cuyos electrones no están apareados (radicales libres, moléculas oxidativas u oxidas, ácidos indeseados úrico, láctico, ROS, toxinas de desecho metabólico orgánico y celular, etc.) consigue librar de estas a las células, liberándolas del estrés oxidativo que produce degradación de sus funciones fisiológicas, inflamación y posteriores procesos neoplásicos.
+BIOFORCE® aporta electrones para mejorar la bioquímica corporal sistémica y también estos electrones restablecen equilibrios en las señales eléctricas, campos eléctricos y magnéticos óptimos que requiere es ser humano para mantenerse saludable, y es por esto por lo que mejora patologías, síntomas y enfermedades actuando desde la misma química básica requerida, pero también incidiendo y restableciendo en el equilibrio eléctrico y magnético que el cuerpo requiere para optimo estado.

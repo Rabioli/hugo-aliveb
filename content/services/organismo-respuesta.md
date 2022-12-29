@@ -1,50 +1,9 @@
 ---
-title: "Business Sales"
+title: "Respuesta o resistencias del organismo humano a BIOFORCE®"
 date: 2018-11-28T15:15:26+10:00
 featured: true
 draft: false
 weight: 3
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
-
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
-
-## Geniti facinus praeruptam atris ab manus in
-
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
-
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
-
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
-
-## Vidit si probetne vertitur
-
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
-
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
-
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+BIOFORCE® al ingerirse no presenta respuesta fisiológica alguna del organismo humano, ni reactiva, ni alérgica, ni rechazo, no se crean resistencias, ni anticuerpos, ya que es reconocido como agua, la más hidratante por cada una de las células de este; ningún órgano o sistema del cuerpo humano incide en BIOFORCE® para su metabolización y eliminación. BIOFORCE® interactúa con sustancias (átomos y moléculas), señales y cargas eléctricas y también magnéticas presentes en el cuerpo humano con las cuales reacciona promoviendo equilibrios, balances y homeostasis. Posterior a efectuar esto, queda agua normal como residuo, si llegase a existir exceso de este o un déficit urémico, BIOFORCE® incrementara la uremia y se excretara el agua sobrante del organismo mediante la orina, constituyendo esto la única reacción.

@@ -41,7 +41,7 @@ title = "Alive Bienestar"
   [params.seo]
 
   [params.services]
-    summary_truncate = 125 # How many characters to include in the summary of the services before truncating
+    summary_truncate = 150 # How many characters to include in the summary of the services before truncating
 
   [params.team]
     summary_large_truncate = 140 # How many characters to include in the summary of the team bios (large layout) before truncating
