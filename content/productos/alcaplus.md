@@ -5,6 +5,8 @@ draft: false
 featured: true
 weight: 1
 ---
+![Alcaplus](/images/productos/ALIVE-ALCAPLUS-FRASCO-NASAL-228x300.png)
+
 NASO-OROFARINGEO
 
 Aplicación oral y nasal, por medio de atomizaciones. 

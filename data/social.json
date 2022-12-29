@@ -6,12 +6,12 @@
     },
     {
         "name": "Instagram",
-        "link": "https://twitter.com/zerostaticio",
-        "image": "images/social/instagam.svg"
+        "link": "https://instagram.com",
+        "image": "images/social/noun-instagram-63241.svg"
     },
     {
         "name": "Facebook",
-        "link": "https://facebook.com/zerostaticio",
-        "image": "images/social/facebook.svg"
+        "link": "https://facebook.com/",
+        "image": "images/social/noun-facebook-63243.svg"
     }
 ]

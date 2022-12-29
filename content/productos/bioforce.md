@@ -8,6 +8,8 @@ draft: false
 featured: true
 weight: 2
 ---
+![Bioforce](/images/productos/BIOFORCE-BOTELLA-FONDO-BLANCO-pq893yblnpr3wdckyom9w4nm0atjcqkupxjt281auk.png)
+
 Aditivo antioxidante, a base de agua electrolizada. Generador de reactivación celular.
 
 BIOFORCE es un producto que en términos generales tiene la capacidad de llegar a cada una de nuestras células, llevando consigo elementos moleculares nutritivos que toda célula requiere para funcionar y facilita su asimilación. A su vez ya estando dentro de las células atrae todos los desechos de las células,   llevandolos al torrente sanguíneo y de ahí a los órganos que se encargan de su metabolización y expulsión del cuerpo humano (riñones, hígado, glándulas, etc).
